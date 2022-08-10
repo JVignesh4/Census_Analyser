@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="co.unruly.junit.rules" type="repository">
+    <properties maven-id="co.unruly:junit-rules:1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/co/unruly/junit-rules/1.1/junit-rules-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.2/joda-time-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
